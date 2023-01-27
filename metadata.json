@@ -111,7 +111,7 @@
   "requirements": [
     {
       "name": "puppet",
-      "version_requirement": ">= 5.0.0 < 7.0.0"
+      "version_requirement": ">= 6.0.0 < 8.0.0"
     }
   ],
   "description": "Manages PAM, including specifying users and groups in access.conf, limits.conf, and limits fragments",
